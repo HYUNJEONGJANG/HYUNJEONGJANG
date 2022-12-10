@@ -1,25 +1,29 @@
-<div align="center">
-
+<div>
+  
+![header](https://capsule-render.vercel.app/api?type=slice&color=F8E2CF&height=300&section=header&text=HyunjeongJang&fontSize=70)
+  
+  
 ### 👋 Hi there 👋
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-squareslogo=notion&logoColor=white)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ahhhaaah)](https://solved.ac/ahhhaaah)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunjeongJang&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
 ### 💻 Tech Stack 💻
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)<br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-squares&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-squares&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-squares&logo=javascript&logoColor=%23F7DF1E)
 
-<br>
 
 ### 🔨 Tools 🔨
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-squares&logo=intellij-idea&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-squares&logo=oracle&logoColor=white)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunjeongJang&layout=compact)](https://github.com/HyunjeongJang/github-readme-stats)
+
 
 </div>
 
@@ -29,7 +33,7 @@
 
 <!--
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ahhhaaah)](https://solved.ac/ahhhaaah)
+
 
 -->
 
