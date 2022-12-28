@@ -8,7 +8,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-squareslogo=notion&logoColor=white)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ahhhaaah)](https://solved.ac/ahhhaaah)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunjeongJang&layout=compact&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangHyunJeong&layout=compact&theme=dracula)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunjeongJang&show_icons=true&theme=radical)
 
 ### 💻 Tech Stack
