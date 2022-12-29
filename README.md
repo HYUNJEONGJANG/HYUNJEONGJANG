@@ -8,13 +8,16 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-squareslogo=notion&logoColor=white)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ahhhaaah)](https://solved.ac/ahhhaaah)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JangHyunJeong&layout=compact&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunjeongJang&layout=compact&theme=dracula)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunjeongJang&show_icons=true&theme=radical)
 
 ### 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-squares&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-squares&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-squares&logo=javascript&logoColor=%23F7DF1E)
+![SpringBoot](https://img.shields.io/badge/springBoot-%236DB33F.svg?style=flat-squares&logo=springboot&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%0769AD.svg?style=flat-squares&logo=jQuery&logoColor=%blue) 
+![JavaScript](https://img.shields.io/badge/javascript-%6DB33F.svg?style=flat-squares&logo=javascript&logoColor=%23F7DF1E)
+  
 
 
 ### 🔨 Tools
