@@ -13,9 +13,10 @@
 ![SpringBoot](https://img.shields.io/badge/springBoot-%236DB33F.svg?style=flat-squares&logo=springboot&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-squares&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-2C2255?style=flat-squares&logo=MySQL&logoColor=white) 
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&amp;logo=jquery&amp;logoColor=white" style="max-width: 100%;">
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=JavaScript&amp;logoColor=white)
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flate&amp;logo=HTML5&amp;logoColor=white" style="max-width: 100%;">
+  
+<!--   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&amp;logo=jquery&amp;logoColor=white" style="max-width: 100%;"> -->
 
 <!-- ### 🔨 Tools 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-squares&logo=intellij-idea&logoColor=white)
