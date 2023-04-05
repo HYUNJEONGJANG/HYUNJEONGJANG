@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header) -->
 ### 👋 Hi there , I'm Hyunjeong
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunjeongJang&layout=compact) 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunjeongJang&layout=compact)  -->
 <!-- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-squareslogo=notion&logoColor=white) -->
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ahhhaaah)](https://solved.ac/ahhhaaah) -->
 <!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunjeongJang)   -->
