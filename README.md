@@ -17,10 +17,10 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flate&amp;logo=HTML5&amp;logoColor=white" style="max-width: 100%;">
   
 <!--   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&amp;logo=jquery&amp;logoColor=white" style="max-width: 100%;"> -->
-
+<!-- 
 ### 🔨 Tools 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-squares&logo=intellij-idea&logoColor=white)
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&amp;logo=Eclipse IDE&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&amp;logo=Eclipse IDE&amp;logoColor=white" style="max-width: 100%;"> -->
 
 
 <!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer) -->
