@@ -9,5 +9,4 @@
 - JavaScript
 - Oracle , MySQL , Redis
 - MyBatis, JPA
-- AWS - EC2 , RDS , S3
-- Jenkins , Docker
+- AWS , Jenkins , Docker
