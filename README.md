@@ -4,8 +4,7 @@
 
 ### 💻 Tech Stack 
 
-- Java
-- Spring , Spring Boot
+- Java , Spring
 - JavaScript
 - Oracle , MySQL , Redis
 - MyBatis, JPA
