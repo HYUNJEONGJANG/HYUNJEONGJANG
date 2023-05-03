@@ -4,7 +4,7 @@
 
 ### 💻 Tech Stack 
 
-- Java , Spring
+- Java , Spring Framework
 - JavaScript
 - Oracle , MySQL , Redis
 - MyBatis, JPA
